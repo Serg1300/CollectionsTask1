@@ -1,0 +1,8 @@
+E:\Тслаб\Уроки по С#\CollectionsTask1.1\bin\Debug\CollectionsTask1.1.exe.config
+E:\Тслаб\Уроки по С#\CollectionsTask1.1\bin\Debug\CollectionsTask1.1.exe
+E:\Тслаб\Уроки по С#\CollectionsTask1.1\bin\Debug\CollectionsTask1.1.pdb
+E:\Тслаб\Уроки по С#\CollectionsTask1.1\obj\Debug\CollectionsTask1.1.csproj.AssemblyReference.cache
+E:\Тслаб\Уроки по С#\CollectionsTask1.1\obj\Debug\CollectionsTask1.1.csproj.SuggestedBindingRedirects.cache
+E:\Тслаб\Уроки по С#\CollectionsTask1.1\obj\Debug\CollectionsTask1.1.csproj.CoreCompileInputs.cache
+E:\Тслаб\Уроки по С#\CollectionsTask1.1\obj\Debug\CollectionsTask1.1.exe
+E:\Тслаб\Уроки по С#\CollectionsTask1.1\obj\Debug\CollectionsTask1.1.pdb
